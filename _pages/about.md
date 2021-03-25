@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior undergraduate at Indiana University Bloomington. Currently, I am finishing B.A.s in Linguistics and French, with a minor in Central Eurasian Studies. 
-
+I am a junior undergraduate at Indiana University Bloomington completing my B.A. in Linguistics (minor Central Eurasian Studies) and French. My research focuses on the simultaneous processing of music and language. I serve as a reviewer for the <href="https://iujur.iu.edu/">Indiana University Journal of Undergraduate Research</a> and as a lab asistant for the IUB's <href="https://celt.indiana.edu/">Center for Language Technology</a>.
 
