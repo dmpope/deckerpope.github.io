@@ -13,7 +13,8 @@ Education
 ======
 * B.A. in Linguistics, minor in Central Eurasian Studies, Indiana University Bloomington, expected 2022
 * B.A. in French, Indiana University Bloomington, expected 2022
-Work experience
+
+Work Experience
 ======
 * Fall 2020-Present: Reviewer for Indiana University Journal of Undergraduate Research (IUJUR)
   * Indiana University
