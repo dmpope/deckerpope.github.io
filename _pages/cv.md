@@ -18,13 +18,12 @@ Work Experience
 ======
 * Fall 2020-Present: Reviewer for Indiana University Journal of Undergraduate Research (IUJUR)
   * Indiana University
-  * Duties included: •review submitted papers in social sciences
+  * Duties included: reviewing submitted papers in social sciences
   * Supervisor: Nadine Templeton
 
 * Fall 2019-Present: Lab Assistant
   * Indiana University
-  * Duties included: •Manage social media with a focus on understudied language promotion
-                     •Greet guests and facilitate the check out of language-learning materials
+  * Duties included: managing social media with a focus on understudied language promotion, greeting guests and facilitating the check out of language-learning materials
   * Supervisor: Xiaojing Kou
   
 Grants and Fellowships
