@@ -28,5 +28,6 @@ Work Experience
   
 Grants and Fellowships
 ======
-* 2021-2022 Foreign Language and Area Studies Fellowship
+* 2021-2022 Foreign Language and Area Studies Fellowship, United States Department of Education
+* 2021 Advanced Summer Research Scholarship, Indiana University Undergraduate Research 
 
