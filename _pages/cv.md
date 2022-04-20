@@ -14,16 +14,16 @@ Education
 * B.A. in Linguistics, minor in Central Eurasian Studies, Indiana University Bloomington, expected 2022
 * B.A. in French, Indiana University Bloomington, expected 2022
 
-Work Experience
+Teaching and Other Relevant Work Experience
 ======
-* Fall 2020-Present: Reviewer for Indiana University Journal of Undergraduate Research (IUJUR)
+* Fall 2020-Spring 2021: Reviewer for Indiana University Journal of Undergraduate Research (IUJUR)
   * Indiana University
   * Duties included: reviewing submitted papers in social sciences
   * Supervisor: Nadine Templeton
 
 * Fall 2019-Present: Lab Assistant
   * Indiana University
-  * Duties included: managing social media with a focus on understudied language promotion, greeting guests and facilitating the check out of language-learning materials
+  * Duties included: managing social media with a focus on understudied language promotion, greeting guests, and facilitating the check out of language-learning materials
   * Supervisor: Xiaojing Kou
   
 Grants and Fellowships
