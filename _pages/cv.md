@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Decker M. Pope"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -30,4 +30,8 @@ Grants and Fellowships
 ======
 * 2021-2022 Foreign Language and Area Studies Fellowship, United States Department of Education
 * 2021 Advanced Summer Research Scholarship, Indiana University Undergraduate Research 
+
+Presentations
+======
+**Pope D. M.**, Bunger, A.C. Musical Expectancy and Lexical-Syntactic Information Interactions in Syntax Processing. Poster presented at Midwest Undegraduate Cognitive Science Conference; April 30th, 2022; Bloomington, IN. 1st Place Prize.
 
