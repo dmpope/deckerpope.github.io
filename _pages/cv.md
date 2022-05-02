@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Linguistics, minor in Central Eurasian Studies, Indiana University Bloomington, expected 2022
-* B.A. in French, Indiana University Bloomington, expected 2022
+* M.A in French Linguistics, Indiana University Bloomington, expected May 2024
+* B.A. in Linguistics, minor in Central Eurasian Studies, Indiana University Bloomington
+* B.A. in French, Indiana University Bloomington
 
 Teaching and Other Relevant Work Experience
 ======
