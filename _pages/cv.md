@@ -34,5 +34,5 @@ Grants and Fellowships
 
 Presentations
 ======
-**Pope D. M.**, Bunger, A.C. Musical Expectancy and Lexical-Syntactic Information Interactions in Syntax Processing. Poster presented at Midwest Undegraduate Cognitive Science Conference; April 30th, 2022; Bloomington, IN. 1st Place Prize.
+**Pope D. M.**, Bunger, A.C. Musical Expectancy and Lexical-Syntactic Information Interactions in Syntax Processing. Poster presented at Midwest Undegraduate Cognitive Science Conference; April 30th, 2022; Bloomington, IN. Robert J. Glushko Research Excellence Award for Outstanding Poster Presentation.
 
